@@ -1,0 +1,92 @@
+[
+    {
+        "src":"Fotos/1.png",
+        "alt":"Uñas",
+        "classList": "foto box cap cor",
+        "id":"1"
+    },
+    {
+        "src":"Fotos/2.png",
+        "alt":"Uñas",
+        "classList": "foto box cap cor",
+        "id":"2"
+    },
+    {
+        "src":"Fotos/3.png",
+        "alt":"Uñas",
+        "classList": "foto box esc lar",
+        "id":"3"
+    },
+    {
+        "src":"Fotos/4.png",
+        "alt":"Uñas",
+        "classList": "foto box esm lar",
+        "id":"4"
+    },
+    {
+        "src":"Fotos/5.png",
+        "alt":"Uñas",
+        "classList": "foto box esm lar",
+        "id":"5"
+    },
+    {
+        "src":"Fotos/6.png",
+        "alt":"Uñas",
+        "classList": "foto box esm cor",
+        "id":"6"
+    },
+    {
+        "src":"Fotos/7.png",
+        "alt":"Uñas",
+        "classList": "foto box esc lar",
+        "id":"7"
+    },
+    {
+        "src":"Fotos/8.png",
+        "alt":"Uñas",
+        "classList": "foto box esc lar",
+        "id":"8"
+    },
+    {
+        "src":"Fotos/9.png",
+        "alt":"Uñas",
+        "classList": "foto box esm cor",
+        "id":"9"
+    },
+    {
+        "src":"Fotos/10.png",
+        "alt":"Uñas",
+        "classList": "foto box esm cor",
+        "id":"10"
+    },
+    {
+        "src":"Fotos/11.png",
+        "alt":"Uñas",
+        "classList": "foto box cap lar",
+        "id":"11"
+    },
+    {
+        "src":"Fotos/12.png",
+        "alt":"Uñas",
+        "classList": "foto box cap lar",
+        "id":"12"
+    },
+    {
+        "src":"Fotos/13.png",
+        "alt":"Uñas",
+        "classList": "foto box cap cor",
+        "id":"13"
+    },
+    {
+        "src":"Fotos/14.png",
+        "alt":"Uñas",
+        "classList": "foto box esm cor",
+        "id":"14"
+    },
+    {
+        "src":"Fotos/15.png",
+        "alt":"Uñas",
+        "classList": "foto box esm cor",
+        "id":"15"
+    }   
+]

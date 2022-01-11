@@ -1,0 +1,67 @@
+.back{
+    background-color: #E7D6FF;
+}
+.layout{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 5px;
+    grid-auto-rows: minmax(100px, auto);
+}
+.titulo{
+    grid-column: 1/6;
+}
+.data{
+    grid-column: 1/3;
+    border-right: 2px solid #C6F4FF;
+}
+.box{
+    margin-right: 15px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 5px;
+    grid-auto-rows: min-content;
+    margin: 0px 15px 5px 0px;
+}
+.box .inputlabel{
+    grid-column: 1/2;
+}
+.box .input{
+    grid-column: 2/5;
+}
+.dates{
+    padding-left: 15px;
+    grid-column: 3/6;
+    background-color: #CDF9D9;
+}
+.submit{
+    grid-column: 3/4;
+}
+.dates{
+    background-color: #CDF9D9;
+    border: 3px #C6F4FF;
+    border-style:solid;
+    /* display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 5px;
+    grid-auto-rows: min-content; */
+} 
+/* .dates .inputsubtitulo{
+    grid-column: 1/6;
+    margin-left: 5px;
+} */
+.dates #elements{    
+    display: grid;
+    grid-template-columns: repeat(15, 1fr);
+    grid-gap: 5px;
+    grid-auto-rows: min-content;
+    margin-bottom: 20px;
+}
+#elements .inputbox{
+    grid-column: 1/2;
+    margin-bottom: 5px;
+}
+#elements .inputlabel{
+    grid-column: 2/15;
+}
+
+

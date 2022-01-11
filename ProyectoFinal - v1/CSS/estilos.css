@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald:wght@200&family=Raleway:wght@100&display=swap');
+/*
+font-family: 'Oswald', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Bebas Neue', cursive;
+*/
+/* 
+rosa #FED2D6
+violeta #E7D6FF
+celeste #C6F4FF
+verde #CDF9D9
+*/
+
+body{
+    color: #333;
+    margin:0px;
+}
+nav{
+    border-bottom: 2px solid #C6F4FF;
+    padding-right: 8px;
+    display: flex;
+    justify-content: center;
+}
+nav a {
+    color:#666; 
+    font-size: 20px; 
+    font-family: 'Bebas Neue', cursive;
+}
+nav img {
+    height: 60px;
+}
+main {
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin:0px;
+}
+a {
+    color:#666; 
+    text-decoration: none; 
+    padding-left: 10px; 
+    text-transform: uppercase;
+}
+a:hover {
+    color:#CDF9D9; 
+}
+footer{
+    border-top: 2px solid #C6F4FF;
+    padding-right: 8px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+footer img{
+    cursor:pointer; 
+    height: 20px; 
+    max-width: 100%; 
+}
+footer a{
+    align-content: center;
+}
+/* .base{
+    background-color: #E7D6FF;
+} */
+.titulo{
+    font-size: 50px;  
+    font-family: 'Oswald', sans-serif;
+    height: auto;
+    text-align-last: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.subtitulo{
+    font-size: 30px;  
+    font-family: 'Oswald', sans-serif;
+    height: auto;
+    margin-top: 10px;
+}
+.button{
+    cursor: pointer;
+    background-color: #FED2D6;
+    color: #666;
+    border-color: #C6F4FF
+}
+.inputbox{
+    cursor: pointer;
+}
+.inputlabel{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

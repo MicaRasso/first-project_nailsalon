@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salón de uñas</title>
+    <link rel="stylesheet" href="../CSS/estilos.css"> 
+    <link rel="stylesheet" href="../CSS/estilos_t.css"> 
+    <link rel="icon" href="../Fotos/logo.ico">
+
+</head>
+<body>
+    <header>
+        <nav>
+            <!-- <img src="../Fotos/logo.png" alt="Logo">       -->
+            <a href="../indice/index.html">Inicio</a>
+            <a href="../info/nosotros.html">Conocenos</a>
+            <a href="turnos.html">Sacá tu turno</a>
+            <!-- <a href="../registro/registro.html">Registrate</a>                    -->
+        </nav>
+    </header>
+
+     <main class="back">
+        <h2 class="titulo">Golden Rose</h2>
+        <form id="myForm" name="myForm" class="myForm" method="get" action="">
+            <div class="layout">
+                <div class="data">
+                    <h3 class="subtitulo">Ingresá tus datos</h3>
+                    <div class="box">
+                        <label for="inputCel" class="inputlabel">Celular</label>
+                        <input type="number" name="inputCel" class="input" required>
+                    </div>
+                    <div class="box">
+                        <label for="inputName" class="inputlabel">Nombre</label>
+                        <input type="text" name="inputName" class="input" required>
+                    </div>
+                    <div class="box">
+                        <label for="inputAge" class="inputlabel">Edad</label>
+                        <input type="number" name="inputAge" class="input" required>
+                    </div>
+                </div>
+                <div class="dates">
+                    <h3 class="inputsubtitulo subtitulo">Turnos próximos</h3>
+                    <div  id="elements">
+                    </div>
+                </div> 
+                <div class="submit">
+                    <input type="submit" class="button">     
+                </div>   
+                <div id="turnosDisponibles">
+                </div>
+            </div>
+        </form>
+
+     </main>
+
+
+
+
+
+
+
+    <footer>
+        <a href="https://www.facebook.com/goldenrose.mr" target="_blank"><img src="../Fotos/logoF.png"></a>
+        <a href="https://www.instagram.com/goldenrose.mr/" target="_blank"><img src="../Fotos/logoI.png"></a>
+    </footer>
+
+    <script src="turnos.js"></script>
+</body>
+</html>

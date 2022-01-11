@@ -1,0 +1,68 @@
+/* 
+rosa #FED2D6
+violeta #E7D6FF
+celeste #C6F4FF
+verde #CDF9D9
+*/
+.layout{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 5px;
+    grid-auto-rows: minmax(100px, auto);
+    background-color: #E7D6FF;
+}
+.titulo{
+    grid-column: 1/6;
+}
+.container{
+    grid-column: 1/5;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* background-color: #E7D6FF; */
+}
+.container .box{
+    display: inline-block;
+    margin: auto; 
+    margin: 10px 10px 10px 10px;
+    background-color: #fff;
+    width: 220px;
+    height: 220px;
+    border: 3px #C6F4FF;
+    border-style:solid;
+}
+.container .box:hover{
+    border: 3px #FED2D6;
+    border-style: solid;
+    cursor: pointer;
+}   
+.container .box .foto{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+.aside{
+    grid-column: 5/6;
+}
+.filtro{
+    background-color: #CDF9D9;
+    border: 3px #C6F4FF;
+    border-style:solid;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 5px;
+    grid-auto-rows: min-content;
+}
+.filtro .inputsubtitulo{
+    grid-column: 1/6;
+    margin-left: 5px;
+}
+.filtro .inputbox{
+    grid-column: 1/2;
+}
+.filtro .inputlabel{
+    grid-column: 2/6;
+}
+.filtro .button{
+    grid-column: 1/6;
+}

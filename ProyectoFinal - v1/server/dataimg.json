@@ -1,0 +1,92 @@
+[
+    {
+    "src" : "../indice/Fotos/1.png",
+    "alt":"Uñas",
+    "classList":"foto box cap cor",
+    "value":"1"
+    },
+     {
+    "src" : "../indice/Fotos/2.png",
+    "alt":"Uñas",
+    "classList":"foto box cap cor",
+    "value":"2"
+    },
+    {
+    "src" : "../indice/Fotos/3.png",
+    "alt":"Uñas",
+    "classList":"foto box esc lar",
+    "value":"3"
+    },
+    {
+    "src" : "../indice/Fotos/4.png",
+    "alt":"Uñas",
+    "classList":"foto box esm lar",
+    "value":"4"
+    },
+    {
+    "src" : "../indice/Fotos/5.png",
+    "alt":"Uñas",
+    "classList":"foto box esm cor",
+    "value":"5"
+    },
+    {
+    "src" : "../indice/Fotos/6.png",
+    "alt":"Uñas",
+    "classList":"foto box esm cor",
+    "value":"6"
+    },
+    {
+    "src" : "../indice/Fotos/7.png",
+    "alt":"Uñas",
+    "classList":"foto box esc lar",
+    "value":"7"
+    },
+    {
+    "src" : "../indice/Fotos/8.png",
+    "alt":"Uñas",
+    "classList":"foto box esc lar",
+    "value":"8"
+    },
+    {
+    "src" : "../indice/Fotos/9.png",
+    "alt":"Uñas",
+    "classList":"foto box esm cor",
+    "value":"9"
+    },
+    {
+    "src" : "../indice/Fotos/10.png",
+    "alt":"Uñas",
+    "classList":"foto box esm cor",
+    "value":"10"
+    },
+    {
+    "src" : "../indice/Fotos/11.png",
+    "alt":"Uñas",
+    "classList":"foto box cap lar",
+    "value":"11"
+    },
+    {
+    "src" : "../indice/Fotos/12.png",
+    "alt":"Uñas",
+    "classList":"foto box cap lar",
+    "value":"12"
+    },
+    {
+    "src" : "../indice/Fotos/13.png",
+    "alt":"Uñas",
+    "classList":"foto box cap cor",
+    "value":"13"
+    },
+    {
+    "src" : "../indice/Fotos/14.png",
+    "alt":"Uñas",
+    "classList":"foto box esm cor",
+    "value":"14"
+    },
+    {
+    "src" : "../indice/Fotos/15.png",
+    "alt":"Uñas",
+    "classList":"foto box esm cor",
+    "value":"15"
+    }
+]
