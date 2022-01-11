@@ -1,5 +1,5 @@
 # first-project_nailsalon
-This project was created for an assigment for the Introduction to JavaScript Class. I attended this class in the period of october to december of 2021.
+This project was created as an assigment for the Introduction to JavaScript Class. I attended this class in the period of october to december of 2021.
 
 The requirements for this project: 
   (1) It has to be written in Vanilla JS.
